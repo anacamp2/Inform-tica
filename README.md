@@ -10,5 +10,5 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/contas%20mensais
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/planilha%20atv%20ana%20luiza%201.pdf
 ![image](https://github.com/user-attachments/assets/b8e392c1-9f3f-4da6-a649-6d6ee992fb14)
 ## Quarta atividade: Power BI
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024.pbix
 ![image](https://github.com/user-attachments/assets/e7fd39b6-4694-4b2c-9920-3e531b754226)
