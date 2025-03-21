@@ -7,5 +7,8 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/apresenta%C3%A7%
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/contas%20mensais.pdf
 ![image](https://github.com/user-attachments/assets/69bd5164-ac24-4190-ad71-e0a740036eb9)
 ## Terceira atividade: Planilha alunos
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/planilha%20atv%20ana%20luiza%201.pdf
 ![image](https://github.com/user-attachments/assets/b8e392c1-9f3f-4da6-a649-6d6ee992fb14)
+## Quarta atividade: Power BI
+Segue o link: 
+![image](https://github.com/user-attachments/assets/e7fd39b6-4694-4b2c-9920-3e531b754226)
