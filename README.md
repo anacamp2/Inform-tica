@@ -15,5 +15,5 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Quantidade%20de%
 ## 5ª atividade: Power BI 2
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/completo%20agua.pbix
 ![image](https://github.com/user-attachments/assets/c586e9f7-7a68-4ba9-a601-dba875b78da2)
-Segue o link, planilha: 
+Segue o link, planilha: https://github.com/anacamp2/Inform-tica/blob/main/sustentabilidade%20completo_-_agua_2022.pdf
 ![image](https://github.com/user-attachments/assets/ec6d92d7-cccf-4569-bbbe-6064d1d0a3b9)
