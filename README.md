@@ -13,5 +13,7 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/planilha%20atv%2
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024.pbix
 ![image](https://github.com/user-attachments/assets/e7fd39b6-4694-4b2c-9920-3e531b754226)
 ## 5ª atividade: Power BI 2
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/completo%20agua.pbix
 ![image](https://github.com/user-attachments/assets/c586e9f7-7a68-4ba9-a601-dba875b78da2)
+Segue o link, planilha: 
+![image](https://github.com/user-attachments/assets/ec6d92d7-cccf-4569-bbbe-6064d1d0a3b9)
