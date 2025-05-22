@@ -27,5 +27,8 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/GPI_sorvete.ipyn
 Comparação: Não houve mudança nos resultados apresentados no Google Colab e no Excel.
 ```
 ## Consumo de cerveja:
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Consumo_cerveja.xlsx
 ![image](https://github.com/user-attachments/assets/5e5e8aaa-dd02-4de1-b3ae-9ad78a53c37f)
+Segue o link: 
+![image](https://github.com/user-attachments/assets/b9ffcece-46da-482c-856c-642d44250eb8)
+
