@@ -17,7 +17,8 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/completo%20agua.
 ![image](https://github.com/user-attachments/assets/c586e9f7-7a68-4ba9-a601-dba875b78da2)
 Segue o link, planilha: https://github.com/anacamp2/Inform-tica/blob/main/sustentabilidade%20completo_-_agua_2022.xlsx
 ![image](https://github.com/user-attachments/assets/a0d32db6-69d5-4e80-bd05-5b2ebe071883)
-## 6ª atividade: 
+## 6ª atividade: Analise e comparação
+## Vendas de sorvete:
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Ice%20Cream.xlsx
 ![image](https://github.com/user-attachments/assets/74afa47e-28d9-403f-879d-4c6ac6a707f7)
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/GPI_sorvete.ipynb
@@ -25,3 +26,6 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/GPI_sorvete.ipyn
 ```
 Comparação: Não houve mudança nos resultados apresentados no Google Colab e no Excel.
 ```
+## Consumo de cerveja:
+Segue o link: 
+![image](https://github.com/user-attachments/assets/5e5e8aaa-dd02-4de1-b3ae-9ad78a53c37f)
