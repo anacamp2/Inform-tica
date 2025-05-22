@@ -20,7 +20,7 @@ Segue o link, planilha: https://github.com/anacamp2/Inform-tica/blob/main/susten
 ## 6ª atividade: 
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Ice%20Cream.xlsx
 ![image](https://github.com/user-attachments/assets/74afa47e-28d9-403f-879d-4c6ac6a707f7)
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/GPI_sorvete.ipynb
 ![image](https://github.com/user-attachments/assets/bdd0df8e-8be4-41bd-8de6-57c702376f3c)
 
 
