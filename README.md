@@ -31,4 +31,7 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Consumo_cerveja.
 ![image](https://github.com/user-attachments/assets/5e5e8aaa-dd02-4de1-b3ae-9ad78a53c37f)
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/cerveja%20(1).ipynb
 ![image](https://github.com/user-attachments/assets/b9ffcece-46da-482c-856c-642d44250eb8)
+```
+
+```
 
