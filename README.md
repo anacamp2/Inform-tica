@@ -39,4 +39,6 @@ Qual modelo você usaria? Por quê?
 ```
 ## Vendas de casas:
 Segue o link:
+![excel c](https://github.com/user-attachments/assets/677f900f-5145-4c7e-9194-eaa8af4ff60e)
+
 
