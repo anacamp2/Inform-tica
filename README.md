@@ -38,7 +38,9 @@ Qual modelo você usaria? Por quê?
 
 ```
 ## Vendas de casas:
-Segue o link:
+Segue o link Google Colab: https://github.com/anacamp2/Inform-tica/blob/main/vendacasa.ipynb
+![colab](https://github.com/user-attachments/assets/5dc650a0-6562-4da5-8eee-057fe303279b)
+Segue o link Excel: 
 ![excel c](https://github.com/user-attachments/assets/677f900f-5145-4c7e-9194-eaa8af4ff60e)
 
 
