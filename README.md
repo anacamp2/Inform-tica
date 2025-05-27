@@ -33,14 +33,14 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/cerveja%20(1).ip
 ![image](https://github.com/user-attachments/assets/b9ffcece-46da-482c-856c-642d44250eb8)
 ```
 Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
-Não, porque no Excel os dados estão apresentados em tabelas, já no Google Colab estão em forma de gráficos.
+Não, porque no Excel os dados estão apresentados em tabelas, já no Google Colab estão em forma de gráficos. São diferentes, uma vez que, cada modelo foi feito com ferramentas e ações distintas.
 Qual modelo você usaria? Por quê?
-
+O modelo feito no Google Colab, por conta da facilidade da geração dos dados e a boa visualização, em gráficos de dispersão.
 ```
 ## Vendas de casas:
 Segue o link Google Colab: https://github.com/anacamp2/Inform-tica/blob/main/vendacasa.ipynb
 ![colab](https://github.com/user-attachments/assets/5dc650a0-6562-4da5-8eee-057fe303279b)
-Segue o link Excel: 
+Segue o link Excel: https://github.com/anacamp2/Inform-tica/blob/main/Pre%C3%A7os_Casas.xlsx
 ![excel c](https://github.com/user-attachments/assets/677f900f-5145-4c7e-9194-eaa8af4ff60e)
 
 
