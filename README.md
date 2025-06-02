@@ -42,5 +42,18 @@ Segue o link Google Colab: https://github.com/anacamp2/Inform-tica/blob/main/ven
 ![colab](https://github.com/user-attachments/assets/5dc650a0-6562-4da5-8eee-057fe303279b)
 Segue o link Excel: https://github.com/anacamp2/Inform-tica/blob/main/Pre%C3%A7os_Casas.xlsx
 ![excel c](https://github.com/user-attachments/assets/677f900f-5145-4c7e-9194-eaa8af4ff60e)
-
-
+```
+Variáveis Utilizadas
+Variável dependente (Y):
+preços – valor de venda do imóvel.
+Variáveis independentes (X):
+área – metragem total do imóvel (em m²).
+garagem – número de vagas de garagem.
+banheiros – quantidade de banheiros.
+lareira – número de lareiras.
+mármore – se o imóvel possui acabamento em mármore branco (1 para sim, 0 para não).
+andares – se o imóvel possui mais de um andar (1 para sim, 0 para não).
+```
+## Fabricação de panelas de pressão:
+Segue o link: 
+![Captura de tela 2025-06-02 195159](https://github.com/user-attachments/assets/e3280842-ab78-4453-813e-ac1cf84a3d5c)
