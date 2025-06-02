@@ -54,6 +54,7 @@ lareira – número de lareiras.
 mármore – se o imóvel possui acabamento em mármore branco (1 para sim, 0 para não).
 andares – se o imóvel possui mais de um andar (1 para sim, 0 para não).
 ```
+## 7ª Atividade: Cálculo de custos, receitas e lucros
 ## Fabricação de panelas de pressão:
-Segue o link: 
+Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Graf_panela_sorvete_produtos.xlsx
 ![Captura de tela 2025-06-02 195159](https://github.com/user-attachments/assets/e3280842-ab78-4453-813e-ac1cf84a3d5c)
