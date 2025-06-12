@@ -64,6 +64,7 @@ Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Graf_K_sandalias
 
 ## 8ª Atividade: Power Automate e Power Apps
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/app%20teste.mp4
+https://github.com/anacamp2/Inform-tica/blob/main/apps.mp4
 ![Captura de tela 2025-06-12 203020](https://github.com/user-attachments/assets/a6539104-e31d-4f2b-839c-e996678f6e42)
 
 
