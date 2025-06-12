@@ -58,10 +58,14 @@ andares – se o imóvel possui mais de um andar (1 para sim, 0 para não).
 ## Fabricação de panelas de pressão e sorvete:
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Graf_panela_sorvete_produtos.xlsx
 ![Captura de tela 2025-06-02 195159](https://github.com/user-attachments/assets/e3280842-ab78-4453-813e-ac1cf84a3d5c) 
-
-![image](https://github.com/user-attachments/assets/f91e5eaf-5308-4b02-9f85-9afb8a8f05ed)
 ## Computador e sandália:
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/Graf_K_sandalias_computador%20(1).xlsx
 ![image](https://github.com/user-attachments/assets/0cacafda-1a1f-46b2-b1a3-c79fe28f1653)
+
+## 8ª Atividade: Power Automate e Power Apps
+Segue o link:
+
+![Captura de tela 2025-06-12 203020](https://github.com/user-attachments/assets/a6539104-e31d-4f2b-839c-e996678f6e42)
+
 
 
