@@ -68,7 +68,7 @@ https://github.com/anacamp2/Inform-tica/blob/main/apps.mp4
 ![Captura de tela 2025-06-12 203020](https://github.com/user-attachments/assets/a6539104-e31d-4f2b-839c-e996678f6e42)
 
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/APP1.mp4
-
+https://github.com/anacamp2/Inform-tica/blob/main/APP2.mp4
 ![app 22](https://github.com/user-attachments/assets/1a641674-94fb-4991-af89-6bea4b03fe91)
 
 
