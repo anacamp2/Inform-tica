@@ -72,6 +72,10 @@ https://github.com/anacamp2/Inform-tica/blob/main/APP2.mp4
 ![app 22](https://github.com/user-attachments/assets/1a641674-94fb-4991-af89-6bea4b03fe91)
 
 ## Prova
-## Questão 3:
+## Questão 3: aplicativo
 Segue o link: https://github.com/anacamp2/Inform-tica/blob/main/app1.mp4
 ![Captura de tela 2025-06-26 201805](https://github.com/user-attachments/assets/52b5a9f0-05d4-49df-8f4c-ba400d4a11be)
+
+## Dashbord:
+Segue o link: 
+![image](https://github.com/user-attachments/assets/8b6dc3b0-5afe-4c89-a213-94f12721d9b3)
